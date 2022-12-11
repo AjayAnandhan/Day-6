@@ -1,0 +1,19 @@
+OOPS:
+    *JavaScript has some inherited features from Java
+    *OOPS is a main piller of JavaScript
+    *Those features are encapusulation, inheritance, and Polimorphism
+
+Encapsulation:
+    Hiding the implimentation details, In which one thimg is included with other thing sothat inclusive things will not appear.
+Ex:
+    WhatsApp
+
+Inheritance:
+    Like a parant-Child relation, In which the class takes all the charecteristics of parent class. (Child => inherit => Parents)
+Ex:
+    Genes / DNA
+
+Polymorphism:
+    A way to achieve a single action n defferent ways.
+Ex:
+    Anniyan
